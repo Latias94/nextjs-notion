@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e9a64743c07743f08605f5df7cb57eaf',
+  rootNotionPageId: '4fcae5477dd440bc9a9b1592c7adac93',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '猫冬的学习笔记',
-  domain: 'https://www.notion.so/frankorz/e9a64743c07743f08605f5df7cb57eaf',
+  domain: 'https://www.notion.so/frankorz/4fcae5477dd440bc9a9b1592c7adac93',
   author: '猫冬',
 
   // open graph metadata (optional)
